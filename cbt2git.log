@@ -1,0 +1,7 @@
+2025-04-04 10:22:21.245947 - Received CBT.V508.FILE477.PDS from FILE477.XMI 
+2025-04-04 10:22:21.246829 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE477.PDS, moved to PDS/$$$DOC
+2025-04-04 10:22:21.247005 - Found $$USES.eml (message/rfc822) in CBT.V508.FILE477.PDS, moved to PDS/$$USES
+2025-04-04 10:22:21.247142 - Found $RUN.jcl (text/plain) in CBT.V508.FILE477.PDS, moved to PDS/$RUN
+2025-04-04 10:22:21.247265 - Found $RUN1.jcl (text/plain) in CBT.V508.FILE477.PDS, moved to PDS/$RUN1
+2025-04-04 10:22:21.247401 - Found @FILE477.txt (text/plain) in CBT.V508.FILE477.PDS, moved to PDS/@FILE477
+2025-04-04 10:22:21.247549 - Found AWSUTIL.jcl (text/plain) in CBT.V508.FILE477.PDS, moved to PDS/AWSUTIL
